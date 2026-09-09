@@ -119,7 +119,7 @@ Principal Component Analysis (PCA) reduced the three-dimensional feature space i
 
 The pairplot below illustrates the relationship between Age, Annual Income, and Spending Score while highlighting the discovered customer segments.
 
-![Pairplot](images/pairplot.png)(images/customer_segmentaion_graph.png)
+![Pairplot](images/customer_segmentaion_graph.png)
 
 ---
 
