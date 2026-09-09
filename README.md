@@ -89,7 +89,7 @@ The clustering workflow consists of:
 
 The Elbow Method was used to determine the optimal number of clusters by analyzing the Within Cluster Sum of Squares (WCSS).
 
-![Elbow Method].(images/elbow_graph.png)
+![Elbow Method](images/elbow_graph.png)
 
 ---
 
