@@ -139,10 +139,10 @@ This helps businesses understand the characteristics of each customer segment.
 
 ## Results
 
-- ✔ Successfully segmented customers into **6 distinct clusters**
-- ✔ Used both Elbow Method and Silhouette Score for model selection
-- ✔ Visualized clusters using PCA
-- ✔ Generated interpretable customer segments for business analysis
+- Successfully segmented customers into **6 distinct clusters**
+- Used both Elbow Method and Silhouette Score for model selection
+- Visualized clusters using PCA
+- Generated interpretable customer segments for business analysis
 
 ---
 
